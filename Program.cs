@@ -4,5 +4,6 @@
     {
         Console.WriteLine("Hello, World! teste");
         int x = 10;
+        int y = 20;
     }
 }
